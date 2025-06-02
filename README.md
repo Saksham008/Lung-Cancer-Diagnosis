@@ -41,8 +41,8 @@ Link :- https://drive.google.com/file/d/1ddmonXM5izMCN2Q5NaqFonXmz6Xj36Ce/view?u
 
 
 ✅ **To run the project using the downloaded model**, execute:
-```bash
 streamlit run FinalModel.py
+
 
 👨‍💻 Author
 
