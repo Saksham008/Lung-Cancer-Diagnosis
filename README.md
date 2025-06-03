@@ -40,11 +40,18 @@ Due to GitHub's file size limit, the trained model (final_model_vgg16.keras, ~16
 Link :- https://drive.google.com/file/d/1ddmonXM5izMCN2Q5NaqFonXmz6Xj36Ce/view?usp=drive_link
 
 
-✅ **To run the project using the downloaded model**, execute:
+✅ **To run the project using the downloaded model**, 
+execute:
 streamlit run FinalModel.py
 
 
-👨‍💻 Author
+👨‍💻 Authors
 
 Saksham Vashisth
 sakshamv1111@gmail.com
+
+Divyansh Saini 
+divyanshsainimzn@gmail.com
+
+Naman Verma
+vnaman896@gmail.com
