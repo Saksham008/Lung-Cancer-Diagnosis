@@ -25,12 +25,19 @@ Images are histopathological slices stained with H&E and resized for deep learni
 
 ## 📦 Project Structure
 lung-cancer-classification/
+
 ├── LungCancer.ipynb # Preliminary notebook
+
 ├── FinalModel.py # Final training + evaluation script
+
 ├── FinalModel.ipynb # Final notebook (step-by-step analysis)
+
 ├── README.md # Documentation
+
 ├── requirements.txt # All dependencies
+
 └── saved_models/
+
 └── final_model_vgg16.keras # Trained fusion model with CBAM
 
 pip install -r requirements.txt
@@ -42,6 +49,7 @@ Link :- https://drive.google.com/file/d/1ddmonXM5izMCN2Q5NaqFonXmz6Xj36Ce/view?u
 
 ✅ **To run the project using the downloaded model**, 
 execute:
+
 streamlit run FinalModel.py
 
 
